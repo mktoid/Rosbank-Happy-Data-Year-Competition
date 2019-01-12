@@ -7,7 +7,7 @@ My solution for LB #16 of 292
 2. Russian Post website scraping (Postal codes, address normalization) using Selenium Webriver)
 3. Yandex Geocoder API (adresses to latitude/longitude, administrative areas, city centers) using requests and Beautiful Soup
 4. Scraping Alfa-Bank website (> 20k ATM locations incl. partners, JSON) using requests
-5. Sberbank ATM locations from Excel file (> 68k in > 33k locaions)
+5. Sberbank ATM locations from Excel file (> 68k in > 33k locations)
 5. Official data on average region salary and population, gensim/FastText to deal with misprints and abbreviations in Excel files
 
 coming soon
