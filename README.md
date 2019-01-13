@@ -10,4 +10,6 @@ My solution for LB #16 of 292
 5. Sberbank ATM locations from Excel file (> 68k in > 33k locations)
 5. Official data on average region salary and population, gensim/FastText to deal with misprints and abbreviations in Excel files
 
-coming soon
+Many ideas were borrowed from
+https://boosters.pro/uploads/champs/champ_21/baseline.ipynb
+https://github.com/datasouls/mts-geohack/blob/master/Geohack112_StarterKit.ipynb
