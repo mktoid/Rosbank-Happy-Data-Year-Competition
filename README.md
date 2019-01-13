@@ -8,7 +8,9 @@ My solution for LB #16 of 292
 3. Yandex Geocoder API (adresses to latitude/longitude, administrative areas, city centers) using requests and Beautiful Soup
 4. Scraping Alfa-Bank website (> 20k ATM locations incl. partners, JSON) using requests
 5. Sberbank ATM locations from Excel file (> 68k in > 33k locations)
-5. Official data on average region salary and population, gensim/FastText to deal with misprints and abbreviations in Excel files
+6. Official data on average region salary and population, gensim/FastText to deal with misprints and abbreviations in Excel files
+7. Mean/Target encoding
+8. 4 folds lightgbm
 
 Many ideas were borrowed from
 https://boosters.pro/uploads/champs/champ_21/baseline.ipynb
